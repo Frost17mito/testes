@@ -1,4 +1,3 @@
-
 print([[CALCULADORA DE EQUACAO DE SEGUNDO GRAU
 digite o valor de A]])
 numero = (io.read("*n"))
